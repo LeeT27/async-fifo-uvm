@@ -24,3 +24,11 @@ Parameterized dual-clock Asynchronous FIFO with Gray-code CDC synchronizers and 
 | :--- | :--- |
 | `top_module` | Contains struct definitions, signal declaration, multiplexing, pipelining logic, hazard units, and all the submodule instantiation |
 | `program_counter` | Sets next instruction address |
+
+---
+
+## Deep Dive
+
+### FIFO
+### CDC and Metastability
+### UVM
